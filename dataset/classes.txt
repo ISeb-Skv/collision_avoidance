@@ -1,0 +1,4 @@
+blue_light
+green_light
+red_light
+robot

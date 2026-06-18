@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "blue_light"
+    },
+    {
+      "id": 1,
+      "name": "green_light"
+    },
+    {
+      "id": 2,
+      "name": "red_light"
+    },
+    {
+      "id": 3,
+      "name": "robot"
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

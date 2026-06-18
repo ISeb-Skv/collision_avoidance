@@ -1,0 +1,7 @@
+path: /content/drive/MyDrive/collision_avoidance_project/dataset
+train: images/train
+val: images/val
+
+nc: 4
+
+names: ['robot', 'green_light', 'red_light', 'blue_light']
