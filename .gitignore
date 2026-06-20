@@ -1,0 +1,21 @@
+﻿# Большие файлы и папки
+*.zip
+*.mp4
+*.avi
+*.mov
+*.pt
+*.pth
+*.onnx
+*.h5
+frames/
+videos/
+dataset/
+results/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+.venv/
