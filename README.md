@@ -61,4 +61,4 @@ collision_avoidance_project/
 ├── analyze_results.py # Анализ результатов и построение графиков
 ├── requirements.txt # Зависимости Python
 ├── .gitignore # Исключённые файлы
-└── README.md # Этот файл
+└── README.md
